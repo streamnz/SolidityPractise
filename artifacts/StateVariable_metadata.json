@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "myStr",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"HelloWorld.sol": "HelloWorld"
+			"StateVariable.sol": "StateVariable"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -46,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"HelloWorld.sol": {
-			"keccak256": "0x355978fb70d9ab25ae7e5d2b5a94f00c05b7bef90b402f0f72765fb7a09fa010",
+		"StateVariable.sol": {
+			"keccak256": "0xb75562c104510846dc004096b2e5cf5c78010d22ca1b994d40f53db1230c8f95",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3f990610c058c72be9fe3644b281970ee22fb32bee3a8fdfb32f9f2d1ff3f9dc",
-				"dweb:/ipfs/QmVbSAQmTgT5MAY7hj8WmWC3TefYX9VKept6CNxRXPBzkc"
+				"bzz-raw://76502231b9a557951c3d541d474f0d6ea241405e496560121a939890fa09642f",
+				"dweb:/ipfs/QmdU8erjySgEAutf6u3BaW7xAu5nbBxSNgUgiKtb6v9Q3v"
 			]
 		}
 	},
